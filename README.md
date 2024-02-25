@@ -1,0 +1,2 @@
+# dym
+dym mining
